@@ -1,0 +1,4 @@
+
+
+navigator.geolocation.getCurrentPosition()
+
